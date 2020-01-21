@@ -1,0 +1,90 @@
+-1.
+SELECT COUNT(*)
+FROM  business;
+SELECT COUNT(*)
+FROM  users;
+SELECT COUNT(*)
+FROM  review;
+SELECT COUNT(*)
+FROM  friends_with;
+SELECT COUNT(*)
+FROM  checkin;
+SELECT COUNT(*)
+FROM  categories;
+SELECT COUNT(*)
+FROM  businessattribute;        *****
+SELECT COUNT(*)
+FROM  hours;
+
+
+
+--2. Run the following queries on your business table, checkin table and review table. Make sure to change the attribute Names based on your schema.
+
+SELECT Zipcode, count(business_id)
+FROM business
+GROUP BY Zipcode
+HAVING count(business_id)>400
+ORDER BY Zipcode
+
+SELECT Zipcode, COUNT(distinct C.categories_name)
+FROM business as B, categories as C
+WHERE B.business_id = C.business_id
+GROUP BY Zipcode
+HAVING count(distinct C.categories_name)>75
+ORDER BY Zipcode
+
+
+SELECT Zipcode, COUNT(distinct A.attribute)             ******
+FROM business as B, businessattribute as A
+WHERE B.business_id = A.business_id
+GROUP BY Zipcode
+HAVING count(distinct A.attribute)>80
+
+
+--3. Run the following queries on your business table, checkin table and tips table. Make sure to change the attribute Names based on your schema.
+
+SELECT users.user_id, count(friends_id)
+FROM users, friends_with
+WHERE users.user_id = friends_with.user_id AND
+      users.user_id = 'zvbewosyFz94fSlmoxTdPQ'
+GROUP BY users.user_id
+
+SELECT business_id, Name, City, Review_count, Num_checkins, Review_ratings
+FROM business
+WHERE business_id ='6lovZEiwWcRYRhyKd94DRg' ;
+
+-----------
+
+SELECT SUM(Checkin_count)
+FROM checkin
+WHERE business_id ='6lovZEiwWcRYRhyKd94DRg';
+
+SELECT count(*), avg(Review_stars)
+FROM review
+WHERE  business_id = '6lovZEiwWcRYRhyKd94DRg';
+
+
+--4.
+--Type the following statements. Make sure to change the attribute Names based on your schema.  Don’t run the update statement before you show the results for steps 1 and 2 to the TA.
+
+UPDATE checkin
+SET Checkin_count = Checkin_count + 1
+WHERE business_id ='6lovZEiwWcRYRhyKd94DRg'  AND Checkin_day ='Friday' AND Checkin_time = '15:00';
+
+INSERT INTO checkin (business_id, Checkin_day,Checkin_time,Checkin_count)
+VALUES ('h_vsOvGHQtEpUroh-5lcHA','Friday','15:00',1);
+
+------------
+
+
+SELECT business_id,Name, City, Num_checkins
+FROM business
+WHERE business_id ='h_vsOvGHQtEpUroh-5lcHA';
+
+
+
+--5.
+--Type the following statements. Make sure to change the attribute Names based on your schema.  Don’t run the insert statement before you show the results for the first query to the TA.
+
+INSERT INTO review (Review_id, user_id, business_id,Text,Review_stars,Review_date,funny,useful,cool) 
+VALUES ('ZuRjoWuinqWhecT-PRZ-qw','zvbewosyFz94fSlmoxTdPQ', '6lovZEiwWcRYRhyKd94DRg', 'Great!',5,'2019-03-22',0,0,0);

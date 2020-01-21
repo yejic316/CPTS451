@@ -1,0 +1,38 @@
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\WpfEFMVVMSample.exe.config
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\WpfEFMVVMSample.exe
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\WpfEFMVVMSample.pdb
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\EntityFramework.dll
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\EntityFramework.xml
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csprojAssemblyReference.cache
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\App.g.cs
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample_MarkupCompile.cache
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample_MarkupCompile.lref
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\MainWindow.baml
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.g.resources
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.Properties.Resources.resources
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csproj.GenerateResource.cache
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csproj.CoreCompileInputs.cache
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csproj.CopyComplete
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.exe
+D:\Project\WPF\WpfApp\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.pdb
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\bin\Debug\WpfEFMVVMSample.exe.config
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\bin\Debug\WpfEFMVVMSample.exe
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\bin\Debug\WpfEFMVVMSample.pdb
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\bin\Debug\EntityFramework.xml
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csprojAssemblyReference.cache
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\MainWindow.g.cs
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\App.g.cs
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample_MarkupCompile.cache
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample_MarkupCompile.lref
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\MainWindow.baml
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.g.resources
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.Properties.Resources.resources
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csproj.GenerateResource.cache
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csproj.CoreCompileInputs.cache
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.csproj.CopyComplete
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.exe
+D:\documents\+Yeji_WSU\+Spring 2019\CPTS451\Project\Milestone2\WpfEFMVVMSample\WpfEFMVVMSample\obj\Debug\WpfEFMVVMSample.pdb
